@@ -1,0 +1,5 @@
+At least one - 21% P(H or W)
+Husband - 15% P(H)
+Both - 10% P(H and W)
+P(W) = 21% - 15% + 10% = 16%
+The probability that the wife has influenza is 16%.
